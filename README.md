@@ -5,7 +5,7 @@ Dexter with Kotlin in Android
 
 ```kotlin
 // app/build.gradle
-https://i.imgur.com/yK1J9O8.png
+implementation 'com.karumi:dexter:4.2.0'
 ```
 ```kotlin
 // AndroidManifest.xml
